@@ -79,4 +79,4 @@ Insert gif or link to demo
 - [@Scholar Chepkirui](https://github.com/Scholarchep)
 - [@Amos Kibet](https://github.com/AmosMaru)
 - [@Eugene Kuloba](https://github.com/eugenekuloba)
-- [@Beth Mithamor](https://github.com/Mythamor)
+- [@Beth Mithamo](https://github.com/Mythamor)
